@@ -1,0 +1,123 @@
+body{
+    color:rgb(219, 119, 47) ;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding-top: 10px;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:brown;
+}
+h2{
+    font-family: 'Merienda One', cursive; 
+    font-size: 2.5rem;
+    color:brown;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Merienda One', cursive; 
+    color:brown ;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 5%;
+    color: chocolate;
+    margin-bottom: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: rgb(238, 211, 161);
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: white;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+}
+p{
+    padding-bottom: 210px;
+    padding-top: 0px;
+}
+.first-container{
+    background-color:rgb(252, 161, 96);
+    position: relative;
+    padding-top: 300px;
+}
+.bottom-cloud{
+    width: 200px;
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.top-cloud{
+    width: 200px;
+    position: absolute;
+    right: 300px ;
+    top: 130px;
+}
+.mountain{
+    bottom: 300px;
+}
+.bag{
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+.dough{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+.knitting{
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+    
+}
+.second-container{
+    margin: 100px 0;
+}
+.me{
+    width: 280px;
+}
+.btn{
+  background-color: coral;  
+  background-image: -webkit-linear-gradient(top, chocolate, );
+  text-decoration: none;
+  border-radius: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  top: 20px;
+}
+.third-container{
+    background-color: chocolate;
+    height: 150px;
+    margin-top: 70px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+.contact{
+    margin-bottom: 50px;
+}
+.copyright{
+    color: white;
+    padding: 20px 0;
+    font-size: 11px;
+}
